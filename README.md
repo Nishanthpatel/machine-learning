@@ -55,7 +55,7 @@ The MNIST dataset is used in all experiments:
 ## How to Run the Notebook
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/activation-functions-gradient-flow.git  
+   git clone https://github.com/Nishanthpatel/machine-learning.git 
    cd activation-functions-gradient-flow
 
 2. (Optional) Create and activate a virtual environment.
